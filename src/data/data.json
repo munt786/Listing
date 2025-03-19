@@ -1,0 +1,102 @@
+[
+    {
+      "firstName": "John",
+      "lastName": "Doe",
+      "city": "New York",
+      "contact": {
+        "primary": "1234567890",
+        "landLine": "011223344",
+        "office": "0987654321"
+      }
+    },
+    {
+      "firstName": "Jane",
+      "lastName": "Smith",
+      "city": "Los Angeles",
+      "contact": {
+        "primary": "2233445566",
+        "landLine": "021334455",
+        "office": "2345678901"
+      }
+    },
+    {
+      "firstName": "Alice",
+      "lastName": "Johnson",
+      "city": "Chicago",
+      "contact": {
+        "primary": "3344556677",
+        "landLine": "031445566",
+        "office": "3456789012"
+      }
+    },
+    {
+      "firstName": "Bob",
+      "lastName": "Brown",
+      "city": "San Francisco",
+      "contact": {
+        "primary": "4455667788",
+        "landLine": "041556677",
+        "office": "4567890123"
+      }
+    },
+    {
+      "firstName": "Charlie",
+      "lastName": "Davis",
+      "city": "Houston",
+      "contact": {
+        "primary": "5566778899",
+        "landLine": "051667788",
+        "office": "5678901234"
+      }
+    },
+    {
+      "firstName": "Dave",
+      "lastName": "Martinez",
+      "city": "Phoenix",
+      "contact": {
+        "primary": "6677889900",
+        "landLine": "061778899",
+        "office": "6789012345"
+      }
+    },
+    {
+      "firstName": "Eve",
+      "lastName": "Garcia",
+      "city": "Dallas",
+      "contact": {
+        "primary": "7788990011",
+        "landLine": "071889900",
+        "office": "7890123456"
+      }
+    },
+    {
+      "firstName": "Frank",
+      "lastName": "Wilson",
+      "city": "Seattle",
+      "contact": {
+        "primary": "8899001122",
+        "landLine": "081990011",
+        "office": "8901234567"
+      }
+    },
+    {
+      "firstName": "Grace",
+      "lastName": "Lopez",
+      "city": "Miami",
+      "contact": {
+        "primary": "9900112233",
+        "landLine": "091100223",
+        "office": "9012345678"
+      }
+    },
+    {
+      "firstName": "Hannah",
+      "lastName": "Anderson",
+      "city": "Atlanta",
+      "contact": {
+        "primary": "1002233445",
+        "landLine": "101223344",
+        "office": "1023456789"
+      }
+    }
+  ]

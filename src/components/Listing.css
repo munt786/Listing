@@ -1,0 +1,21 @@
+.data-table{
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+.data-table th, .data-table td{
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+.data-table th{
+    background-color: #4CAF50;
+    color: white;
+    text-align: center;
+}
+.data-table tr:nth-child(even){
+    background-color: #F2F2F2;
+}
+.data-table tr:hover{
+    background-color: #ddd;
+}
