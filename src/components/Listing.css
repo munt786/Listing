@@ -14,7 +14,7 @@
     text-align: center;
 }
 .data-table tr:nth-child(even){
-    background-color: #F2F2F2;
+    background-color: #f2f2f28a;
 }
 .data-table tr:hover{
     background-color: #ddd;
